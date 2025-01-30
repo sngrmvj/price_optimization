@@ -1,0 +1,13 @@
+aiohttp # Basic component of FAST API
+asyncio # Basic component of FAST API
+bcrypt
+fastapi
+httptools
+uvicorn
+sqlalchemy 
+pydantic 
+asyncpg 
+psycopg2-binary
+PyJWT
+passlib
+uvicorn

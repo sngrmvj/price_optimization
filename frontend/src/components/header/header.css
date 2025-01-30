@@ -1,0 +1,24 @@
+
+
+
+
+
+.app_header{
+    padding: 20px;
+    background-color: #353535;
+    box-shadow: 0px 1px 1px 0px whitesmoke;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    /*height: 40px;*/
+
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.app_subheader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,15 @@
+
+
+.price_optimization {
+
+}
+
+.price_optimization_header{
+    padding: 20px;
+    background-color: black;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}

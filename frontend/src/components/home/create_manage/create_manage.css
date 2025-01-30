@@ -1,0 +1,54 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+input[type=text] {
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #2196F3;
+    color: white;
+    width:300px;
+    background-color: #353535
+}
+
+.create_manage_header{
+    padding: 20px;
+    background-color: black;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+
+.button-9{
+    color: black;
+    cursor: pointer;
+    background-color: #2196F3;
+    border-radius: 5px;
+    border: none;
+    padding: 10px
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: white;
+    color: black;
+}
